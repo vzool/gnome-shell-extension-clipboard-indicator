@@ -10,8 +10,8 @@
         "3.24",
         "3.26"
     ],
-    "uuid": "clipboard-indicator@tudmotu.com",
+    "uuid": "clipboard-indicator@vzool.net",
     "name": "Clipboard Indicator",
     "description": "Clipboard Manager extension for Gnome-Shell - Adds a clipboard indicator to the top panel, and caches clipboard history.",
-    "url": "https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator"
+    "url": "https://github.com/vzool/gnome-shell-extension-clipboard-indicator"
 }
